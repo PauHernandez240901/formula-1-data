@@ -1,0 +1,27 @@
+number,position,driverId,url1,givenName,familyName,dateOfBirth,nationality1,constructorId,url2,name,nationality2,Q1
+2,1,senna,http://en.wikipedia.org/wiki/Ayrton_Senna,Ayrton,Senna,1960-03-21,Brazilian,williams,http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering,Williams,British,1:15.962
+5,2,michael_schumacher,http://en.wikipedia.org/wiki/Michael_Schumacher,Michael,Schumacher,1969-01-03,German,benetton,http://en.wikipedia.org/wiki/Benetton_Formula,Benetton,Italian,1:16.290
+27,3,alesi,http://en.wikipedia.org/wiki/Jean_Alesi,Jean,Alesi,1964-06-11,French,ferrari,http://en.wikipedia.org/wiki/Scuderia_Ferrari,Ferrari,Italian,1:17.385
+0,4,damon_hill,http://en.wikipedia.org/wiki/Damon_Hill,Damon,Hill,1960-09-17,British,williams,http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering,Williams,British,1:17.554
+30,5,frentzen,http://en.wikipedia.org/wiki/Heinz-Harald_Frentzen,Heinz-Harald,Frentzen,1967-05-18,German,sauber,http://en.wikipedia.org/wiki/Sauber,Sauber,Swiss,1:17.806
+10,6,morbidelli,http://en.wikipedia.org/wiki/Gianni_Morbidelli,Gianni,Morbidelli,1968-01-13,Italian,footwork,http://en.wikipedia.org/wiki/Footwork_Arrows,Footwork,British,1:17.866
+29,7,wendlinger,http://en.wikipedia.org/wiki/Karl_Wendlinger,Karl,Wendlinger,1968-12-20,Austrian,sauber,http://en.wikipedia.org/wiki/Sauber,Sauber,Swiss,1:17.927
+7,8,hakkinen,http://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen,Mika,Häkkinen,1968-09-28,Finnish,mclaren,http://en.wikipedia.org/wiki/McLaren,McLaren,British,1:18.122
+6,9,verstappen,http://en.wikipedia.org/wiki/Jos_Verstappen,Jos,Verstappen,1972-03-04,Dutch,benetton,http://en.wikipedia.org/wiki/Benetton_Formula,Benetton,Italian,1:18.183
+3,10,katayama,http://en.wikipedia.org/wiki/Ukyo_Katayama,Ukyo,Katayama,1963-05-29,Japanese,tyrrell,http://en.wikipedia.org/wiki/Tyrrell_Racing,Tyrrell,British,1:18.194
+9,11,fittipaldi,http://en.wikipedia.org/wiki/Christian_Fittipaldi,Christian,Fittipaldi,1971-01-18,Brazilian,footwork,http://en.wikipedia.org/wiki/Footwork_Arrows,Footwork,British,1:18.204
+4,12,blundell,http://en.wikipedia.org/wiki/Mark_Blundell,Mark,Blundell,1966-04-08,British,tyrrell,http://en.wikipedia.org/wiki/Tyrrell_Racing,Tyrrell,British,1:18.246
+20,13,comas,http://en.wikipedia.org/wiki/%C3%89rik_Comas,Érik,Comas,1963-09-28,French,larrousse,http://en.wikipedia.org/wiki/Larrousse,Larrousse,French,1:18.321
+14,14,barrichello,http://en.wikipedia.org/wiki/Rubens_Barrichello,Rubens,Barrichello,1972-05-23,Brazilian,jordan,http://en.wikipedia.org/wiki/Jordan_Grand_Prix,Jordan,Irish,1:18.414
+23,15,martini,http://en.wikipedia.org/wiki/Pierluigi_Martini,Pierluigi,Martini,1961-04-23,Italian,minardi,http://en.wikipedia.org/wiki/Minardi,Minardi,Italian,1:18.659
+15,16,irvine,http://en.wikipedia.org/wiki/Eddie_Irvine,Eddie,Irvine,1965-11-10,British,jordan,http://en.wikipedia.org/wiki/Jordan_Grand_Prix,Jordan,Irish,1:18.751
+28,17,berger,http://en.wikipedia.org/wiki/Gerhard_Berger,Gerhard,Berger,1959-08-27,Austrian,ferrari,http://en.wikipedia.org/wiki/Scuderia_Ferrari,Ferrari,Italian,1:18.855
+8,18,brundle,http://en.wikipedia.org/wiki/Martin_Brundle,Martin,Brundle,1959-06-01,British,mclaren,http://en.wikipedia.org/wiki/McLaren,McLaren,British,1:18.864
+26,19,panis,http://en.wikipedia.org/wiki/Olivier_Panis,Olivier,Panis,1966-09-02,French,ligier,http://en.wikipedia.org/wiki/Ligier,Ligier,French,1:19.304
+25,20,bernard,http://en.wikipedia.org/wiki/%C3%89ric_Bernard,Éric,Bernard,1964-08-24,French,ligier,http://en.wikipedia.org/wiki/Ligier,Ligier,French,1:19.398
+12,21,herbert,http://en.wikipedia.org/wiki/Johnny_Herbert,Johnny,Herbert,1964-06-25,British,team_lotus,http://en.wikipedia.org/wiki/Team_Lotus,Team Lotus,British,1:19.483
+24,22,alboreto,http://en.wikipedia.org/wiki/Michele_Alboreto,Michele,Alboreto,1956-12-23,Italian,minardi,http://en.wikipedia.org/wiki/Minardi,Minardi,Italian,1:19.517
+19,23,beretta,http://en.wikipedia.org/wiki/Olivier_Beretta,Olivier,Beretta,1969-11-23,Monegasque,larrousse,http://en.wikipedia.org/wiki/Larrousse,Larrousse,French,1:19.524
+11,24,lamy,http://en.wikipedia.org/wiki/Pedro_Lamy,Pedro,Lamy,1972-03-20,Portuguese,team_lotus,http://en.wikipedia.org/wiki/Team_Lotus,Team Lotus,British,1:19.975
+34,25,gachot,http://en.wikipedia.org/wiki/Bertrand_Gachot,Bertrand,Gachot,1962-12-23,Belgian,pacific,http://en.wikipedia.org/wiki/Pacific_Racing,Pacific,British,1:20.729
+31,26,brabham,http://en.wikipedia.org/wiki/David_Brabham,David,Brabham,1965-09-05,Australian,simtek,http://en.wikipedia.org/wiki/Simtek,Simtek,British,1:21.186

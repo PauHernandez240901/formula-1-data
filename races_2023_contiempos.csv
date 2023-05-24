@@ -1,0 +1,24 @@
+Año,Round,Nombre de la carrera,circuitId,Fecha,Hora,Fecha clasificacion,Hora clasificacion
+2023,1,Bahrain Grand Prix,bahrain,05/03/2023,15:00:00Z,04/03/2023,15:00:00Z
+2023,2,Saudi Arabian Grand Prix,jeddah,19/03/2023,17:00:00Z,18/03/2023,17:00:00Z
+2023,3,Australian Grand Prix,albert_park,02/04/2023,05:00:00Z,01/04/2023,05:00:00Z
+2023,4,Azerbaijan Grand Prix,baku,30/04/2023,11:00:00Z,28/04/2023,13:00:00Z
+2023,5,Miami Grand Prix,miami,07/05/2023,19:30:00Z,06/05/2023,20:00:00Z
+2023,6,Emilia Romagna Grand Prix,imola,21/05/2023,13:00:00Z,20/05/2023,14:00:00Z
+2023,7,Monaco Grand Prix,monaco,28/05/2023,13:00:00Z,27/05/2023,14:00:00Z
+2023,8,Spanish Grand Prix,catalunya,04/06/2023,13:00:00Z,03/06/2023,14:00:00Z
+2023,9,Canadian Grand Prix,villeneuve,18/06/2023,18:00:00Z,17/06/2023,20:00:00Z
+2023,10,Austrian Grand Prix,red_bull_ring,02/07/2023,13:00:00Z,30/06/2023,15:00:00Z
+2023,11,British Grand Prix,silverstone,09/07/2023,14:00:00Z,08/07/2023,14:00:00Z
+2023,12,Hungarian Grand Prix,hungaroring,23/07/2023,13:00:00Z,22/07/2023,14:00:00Z
+2023,13,Belgian Grand Prix,spa,30/07/2023,13:00:00Z,28/07/2023,15:00:00Z
+2023,14,Dutch Grand Prix,zandvoort,27/08/2023,13:00:00Z,26/08/2023,13:00:00Z
+2023,15,Italian Grand Prix,monza,03/09/2023,13:00:00Z,02/09/2023,14:00:00Z
+2023,16,Singapore Grand Prix,marina_bay,17/09/2023,12:00:00Z,16/09/2023,13:00:00Z
+2023,17,Japanese Grand Prix,suzuka,24/09/2023,05:00:00Z,23/09/2023,06:00:00Z
+2023,18,Qatar Grand Prix,losail,08/10/2023,14:00:00Z,06/10/2023,14:00:00Z
+2023,19,United States Grand Prix,americas,22/10/2023,19:00:00Z,20/10/2023,21:00:00Z
+2023,20,Mexico City Grand Prix,rodriguez,29/10/2023,20:00:00Z,28/10/2023,21:00:00Z
+2023,21,SÃ£o Paulo Grand Prix,interlagos,05/11/2023,17:00:00Z,03/11/2023,18:00:00Z
+2023,22,Las Vegas Grand Prix,vegas,19/11/2023,06:00:00Z,18/11/2023,08:00:00Z
+2023,23,Abu Dhabi Grand Prix,yas_marina,26/11/2023,13:00:00Z,25/11/2023,14:00:00Z
